@@ -30,17 +30,17 @@ export default class Tunes {
       {
         name: 'withBorder',
         icon: borderIcon,
-        title: 'With border',
+        title: 'Con borde',
       },
       {
         name: 'stretched',
         icon: stretchedIcon,
-        title: 'Stretch image',
+        title: 'Imagen estirada',
       },
       {
         name: 'withBackground',
         icon: bgIcon,
-        title: 'With background',
+        title: 'Con background',
       },
     ];
   }
